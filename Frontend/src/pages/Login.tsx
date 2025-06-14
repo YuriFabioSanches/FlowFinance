@@ -47,9 +47,6 @@ const Login: React.FC = () => {
       
       <div className="w-full max-w-md">
         <div className="text-center mb-8">
-          <div className="w-16 h-16 mx-auto mb-4 bg-gradient-to-r from-purple-600 to-purple-800 rounded-2xl flex items-center justify-center shadow-lg">
-            <span className="text-white font-bold text-2xl">FF</span>
-          </div>
           <h1 className="text-3xl font-bold bg-gradient-to-r from-purple-600 to-purple-800 bg-clip-text text-transparent">
             Flow Finance
           </h1>

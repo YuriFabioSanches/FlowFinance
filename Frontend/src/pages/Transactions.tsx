@@ -253,7 +253,7 @@ const Transactions: React.FC = () => {
           <label>
             <input
               type="file"
-              accept=".csv"
+              accept=".json"
               onChange={handleImport}
               className="hidden"
             />
